@@ -1,0 +1,26 @@
+body{
+    background-color: cadetblue;
+}
+.home-page{
+    background-color: azure;
+}
+
+
+.list-page{
+    padding-right: 20%;
+    padding-left: 20%;
+    align-items: center;
+    justify-content: center;
+}
+
+.create{
+    display: flex;
+
+    padding-top: 20px;
+   
+    justify-content: center;
+    background-color: cornsilk;
+    margin-bottom: 10%;
+}
+
+}
